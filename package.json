@@ -1,0 +1,22 @@
+{
+  "name": "gitnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolkMicro/npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolkMicro/npm/issues"
+  },
+  "homepage": "https://github.com/VolkMicro/npm#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
